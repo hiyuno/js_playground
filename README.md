@@ -2,6 +2,6 @@
 Learning Java Script
 
 
-With this files I learn how to:
+With this files I learned how to:
 
 1.- Use Github
